@@ -1,4 +1,4 @@
-package com.brunohgv.core;
+package com.brunohgv.utils;
 
 public enum Direction {
     NONE(0,0),

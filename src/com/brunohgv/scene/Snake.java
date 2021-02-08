@@ -1,6 +1,6 @@
 package com.brunohgv.scene;
 
-import com.brunohgv.core.Direction;
+import com.brunohgv.utils.Direction;
 import com.brunohgv.graphics.Rect;
 import com.brunohgv.graphics.Shape;
 import com.brunohgv.utils.Constants;

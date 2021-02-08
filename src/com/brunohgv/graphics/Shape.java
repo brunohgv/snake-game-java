@@ -1,6 +1,6 @@
 package com.brunohgv.graphics;
 
-import com.brunohgv.core.Direction;
+import com.brunohgv.utils.Direction;
 
 import java.awt.*;
 import java.util.ArrayList;
